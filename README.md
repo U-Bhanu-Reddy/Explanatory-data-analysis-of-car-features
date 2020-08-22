@@ -37,3 +37,6 @@
 3.  Curbweight increases with the increase in Engine Size
 4.  engine size and curb-weight is positively co realted with price
 5.  city-mpg is negatively corelated with price as increase horsepower reduces the mileage
+
+
+##### dataset credits: https://www.kaggle.com/toramky/automobile-dataset
