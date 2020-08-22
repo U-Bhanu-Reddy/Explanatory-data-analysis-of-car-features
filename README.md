@@ -1,5 +1,11 @@
 # Explanatory-data-analysis-of-car-features
 
+## Usage: 
+1. git clone https://github.com/U-Bhanu-Reddy/Explanatory-data-analysis-of-car-features
+2. pip install -r requirements.txt
+3. python analysis.py
+#### Note: Make sure that automobile_data.csv file is in path
+
 ## Histogram(Basic Features)
 ![histogram-1](https://user-images.githubusercontent.com/70066949/90960777-b1bd0f80-e4c1-11ea-85b4-699c662d9d44.png)
 ### Findings from plot
